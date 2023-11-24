@@ -2,6 +2,9 @@
 
 Arcade buttons to control e.g. Spotify over BLE
 
+![Website preview](https://github.com/betaniahemmet/big-ble-buttons/media/IMG_1289.jpg)
+
+
 ## Description
 
 Three arcade buttons connected to ESP32, using the ESP32-BLE-Keyboard library to send media key strokes to a bluetooth connected device. 
