@@ -2,7 +2,7 @@
 
 Arcade buttons to control e.g. Spotify over BLE
 
-![Website preview](https://github.com/betaniahemmet/big-ble-buttons/media/IMG_1289.jpg)
+![Buttons preview](https://github.com/betaniahemmet/big-ble-buttons/blob/main/media/IMG_1289.jpg)
 
 
 ## Description
