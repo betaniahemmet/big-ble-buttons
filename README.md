@@ -12,10 +12,10 @@ Three arcade buttons connected to ESP32, using the ESP32-BLE-Keyboard library to
 
 ## Getting Started
 
-*Print the casing. Put the buttons in the casing.
-*Connect the arcade buttons to ground and three suitable pins on the ESP.
-*Follow the [instructions](https://github.com/T-vK/ESP32-BLE-Keyboard) on how to include the ESP BLE keyboard library. 
-*Upload the .ino-file to the ESP.
+* Print the casing. Put the buttons in the casing.
+* Connect the arcade buttons to ground and three suitable pins on the ESP.
+* Follow the [instructions](https://github.com/T-vK/ESP32-BLE-Keyboard) on how to include the ESP BLE keyboard library. 
+* Upload the .ino-file to the ESP.
 
 ### Dependencies
 
