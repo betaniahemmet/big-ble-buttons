@@ -4,7 +4,6 @@ Arcade buttons to control e.g. Spotify over BLE
 
 ![Buttons preview](https://github.com/betaniahemmet/big-ble-buttons/blob/main/media/IMG_1289.jpg)
 
-
 ## Description
 
 As we are moving away from physical media and platforms such as spotify has come to almost completely dominate our listening habits we have to consider the ease of use of this relatively new technology. Motor skills and eye sight are affecting how easily we can interact with touch screens and controls. As music is something very personal, it is important to be able to choose what you are listening to and not. This project aims to increase the self-determination of individuals by letting them have control of the songs being played. This might seem like a small thing, but for someone who might have little control over other aspects of daily life, it might be considered significant. This project aims to make it as easy as possible to go back, go forward or start/stop music on any music playing device capable of connecting to bluetooth, e.g. phones, tablets or computers.
@@ -64,3 +63,5 @@ Inspiration, code snippets, etc.
 * [Arcade buttons](https://www.electrokit.com/produkt/tryckknapp-arkad-o60mm-gron/)
 * [ESP32-BLE-Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard)
 * [Arduino on ESP32](https://github.com/espressif/arduino-esp32#installation-instructions)
+
+![Buttons second preview](https://github.com/betaniahemmet/big-ble-buttons/blob/main/media/IMG_1424.jpg)
