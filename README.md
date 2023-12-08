@@ -2,7 +2,7 @@
 
 Arcade buttons to control e.g. Spotify over BLE
 
-![Website preview](https://github.com/betaniahemmet/big-ble-buttons/media/IMG_1289.jpg)
+![Buttons preview](https://github.com/betaniahemmet/big-ble-buttons/blob/main/media/IMG_1289.jpg)
 
 
 ## Description
@@ -12,11 +12,14 @@ As we are moving away from physical and platforms such as spotify has come to al
 In short this is: Three arcade buttons connected to ESP32, using the ESP32-BLE-Keyboard library to send media key strokes to a bluetooth connected device. 
 
 
+
 ## Getting Started
-*Print the casing. Put the buttons in the casing.
-*Connect the arcade buttons to ground and three suitable pins on the ESP.
-*Follow the [instructions](https://github.com/T-vK/ESP32-BLE-Keyboard) on how to include the ESP BLE keyboard library. 
-*Upload the .ino-file to the ESP.
+
+* Print the casing. Put the buttons in the casing.
+* Connect the arcade buttons to ground and three suitable pins on the ESP.
+* Follow the [instructions](https://github.com/T-vK/ESP32-BLE-Keyboard) on how to include the ESP BLE keyboard library. 
+* Upload the .ino-file to the ESP.
+
 
 ### Dependencies
 
